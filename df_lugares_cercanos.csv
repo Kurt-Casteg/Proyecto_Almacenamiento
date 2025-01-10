@@ -1,0 +1,477 @@
+property_place_id,nearby_place_id,name,address,place_type,rating,user_ratings_total
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJzRJiXqw7GJYRsDyt8KdAVfw,El Fogón de Pepe,"Rengifo 845, Puerto Montt",restaurant,4.6,2021.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJyaR5wKw7GJYR-y29nOuAPPw,Da Alessandro Trattoria Puerto Montt,"Rengifo 815, Puerto Montt, Puerto Montt",restaurant,4.4,1539.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJM83bBwA7GJYRRha6PydXjrU,La cocina de Balmaceda,"José Manuel Balmaceda 241, Puerto Montt",restaurant,5.0,4.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJTQay75Y7GJYRQndvih_7vUg,LLacolen Pub Restaurante,"Aníbal Pinto 249, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJNSj5_Gs7GJYRtd5empU4iBY,Karamba Chinese food,"Rengifo 832, Puerto Montt",restaurant,4.8,13.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJebacjaw7GJYRGzMif4T9YXQ,Servicios De Restaurante Y Cafeteria Patricio Jose Olivares Hinojosa Empresa Ind,"Rengifo 840, Puerto Montt, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fQRCwA7GJYRopNUfvPIeqs,China Express,"Urmeneta, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ90VFiqw7GJYRpJeb6qxRkwg,Doña Julia,"Baquedano 285, Puerto Montt",restaurant,3.7,213.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJmTUNJK07GJYRbhci9yxdrZ4,bar restaurant Mirador a la bahía,"Aníbal Pinto 118, Puerto Montt",restaurant,4.5,465.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ1djYqLw7GJYRexz-Vksps5k,Tradiciones Peruanas Restaurant,"Rengifo 863, Puerto Montt",restaurant,4.3,639.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJOS94_VI6GJYRqxKLOt8BmG4,KFC,"Urmeneta 603, Puerto Montt",restaurant,3.0,7.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJG3S1W8M7GJYRdu6vmPyfp6c,Austral Burger Bar,"Rengifo 862, Puerto Montt",restaurant,4.3,36.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJL6YxA1M6GJYR5maIfKGLxjU,"Pedro, Juan y Diego","Urmeneta 580, Puerto Montt",restaurant,1.8,42.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJVaHoHFM6GJYR0wIDt75RJbs,Buffet Express,"Urmeneta 580, Puerto Montt, Puerto Montt",restaurant,1.1,16.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJja7PJlU7GJYRVhm0lhWm6yo,Restaurant Sabor Peruano,"Baquedano 867, Puerto Montt",restaurant,4.6,232.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ4zZZMFM6GJYRhFQRFQUj25g,Express de Lider,"Benavente 690, Puerto Montt, Puerto Montt",supermarket,4.2,2689.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJqw_Ckfo6GJYRMkfnBxr1-1Q,Papa Johns Pizza,"Monseñor Ramon Munita 1625, Puerto Montt",restaurant,4.4,1711.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJn4ZvX_A6GJYRXspedjir8wA,PATAGONIA BURGER,"Monseñor Ramon Munita 1544, Puerto Montt, Puerto Montt",restaurant,4.4,397.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJg-E0bpU7GJYR4BFvqCWgNQo,Breko Express,"Monseñor Ramon Munita 1625, Puerto Montt",restaurant,2.3,4.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJQQtLblc7GJYR4coIVsvk_SI,Roof Burger,"Monseñor Ramon Munita 1600, Puerto Montt",restaurant,3.6,93.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJ-8VeT007GJYR7h63HvEAE2I,Stop Sandwich,"Monseñor Ramon Munita 1600, Puerto Montt",restaurant,4.8,5.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJ_d6GPPk7GJYRz8M_ipHbx4k,EL GRAN POLLO MUNITA,"Monseñor Ramon Munita 1600, local 14, Puerto Montt",restaurant,4.0,7.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJS6cmSwA7GJYRfLS7ko4s85Q,KFC,"Monseñor Ramon Munita 1600, Puerto Montt",restaurant,3.1,82.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJJ0jGYwA7GJYRHEahL6gpwpA,Los Pollos Amigos,"Monseñor Ramon Munita 1572, Puerto Montt",restaurant,5.0,2.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJeXX-GQA7GJYRkXQLht-aFJI,Los pollos primos,"Monseñor Ramon Munita 1572, Puerto Montt",restaurant,,
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJu1IFsYc7GJYRqwgU96jwjfI,El Quinto Coño,"La Tirana 1280, Puerto Montt",restaurant,3.9,12.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJdzDd9JgnGJYRw7rDxpD3twg,Las.Delicias de Seba,"Manihual 285, Puerta del Sol, Puerto Montt",restaurant,,
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJf-A6t_s6GJYR_oWj-OyRtd0,Yo Retiro,"Antihual 252, Puerto Montt, Puerto Montt",restaurant,,
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJMVFk-cQ7GJYRLmmz84Z_CCY,Placer De Sushi Puerto Montt,"Antihual 515, Puerto Montt, Puerto Montt",restaurant,4.4,44.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJAaiavfo6GJYR5p9LO9BslE0,Express de Lider,"Monseñor Ramon Munita 1625, Puerto Montt, Puerto Montt",supermarket,4.2,2538.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJrW1kNYs7GJYRNBlqqhv-kNM,Botilleria millaray,"Antihual 635, Puerto Montt, Puerto Montt",supermarket,5.0,1.0
+ChIJfSEnkY46GJYRKDMPe0APXN8,ChIJyT22wsU7GJYRLi4xro-1kdU,Milcalis,"Pasaje nuevo 4, Puerto Montt",restaurant,5.0,2.0
+ChIJfSEnkY46GJYRKDMPe0APXN8,ChIJZX8iq-s7GJYRNCxowbml46w,Quincho Los Doninicos,"Volcán Corcovado, Puerto Montt, Puerto Montt",restaurant,4.4,7.0
+ChIJfSEnkY46GJYRKDMPe0APXN8,ChIJvzBHn547GJYR0lFKEsRV22o,Mini Market Los Domínicos,"Volcán Corcovado 5600, Puerto Montt, Puerto Montt",supermarket,5.0,30.0
+EjdBdi4gQ3VhcnRhIFRlcnJhemEgMTg2MCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIjESLwoUChIJMT7VY-M6GJYRqZnWr3_s1Y4QxA4qFAoSCd9uOp7kOhiWEYAbmd62OpDk,ChIJdzDd9JgnGJYRw7rDxpD3twg,Las.Delicias de Seba,"Manihual 285, Puerta del Sol, Puerto Montt",restaurant,,
+EjdBdi4gQ3VhcnRhIFRlcnJhemEgMTg2MCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIjESLwoUChIJMT7VY-M6GJYRqZnWr3_s1Y4QxA4qFAoSCd9uOp7kOhiWEYAbmd62OpDk,ChIJs_9U2_87GJYRk5ZmfWmvDIY,Minimarket Samy,"Villa, Antihual 1215, Puerto Montt",supermarket,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJzRJiXqw7GJYRsDyt8KdAVfw,El Fogón de Pepe,"Rengifo 845, Puerto Montt",restaurant,4.6,2021.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJyaR5wKw7GJYR-y29nOuAPPw,Da Alessandro Trattoria Puerto Montt,"Rengifo 815, Puerto Montt, Puerto Montt",restaurant,4.4,1539.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJM83bBwA7GJYRRha6PydXjrU,La cocina de Balmaceda,"José Manuel Balmaceda 241, Puerto Montt",restaurant,5.0,4.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJTQay75Y7GJYRQndvih_7vUg,LLacolen Pub Restaurante,"Aníbal Pinto 249, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJNSj5_Gs7GJYRtd5empU4iBY,Karamba Chinese food,"Rengifo 832, Puerto Montt",restaurant,4.8,13.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJebacjaw7GJYRGzMif4T9YXQ,Servicios De Restaurante Y Cafeteria Patricio Jose Olivares Hinojosa Empresa Ind,"Rengifo 840, Puerto Montt, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fQRCwA7GJYRopNUfvPIeqs,China Express,"Urmeneta, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ90VFiqw7GJYRpJeb6qxRkwg,Doña Julia,"Baquedano 285, Puerto Montt",restaurant,3.7,213.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJmTUNJK07GJYRbhci9yxdrZ4,bar restaurant Mirador a la bahía,"Aníbal Pinto 118, Puerto Montt",restaurant,4.5,465.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ1djYqLw7GJYRexz-Vksps5k,Tradiciones Peruanas Restaurant,"Rengifo 863, Puerto Montt",restaurant,4.3,639.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJOS94_VI6GJYRqxKLOt8BmG4,KFC,"Urmeneta 603, Puerto Montt",restaurant,3.0,7.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJG3S1W8M7GJYRdu6vmPyfp6c,Austral Burger Bar,"Rengifo 862, Puerto Montt",restaurant,4.3,36.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJL6YxA1M6GJYR5maIfKGLxjU,"Pedro, Juan y Diego","Urmeneta 580, Puerto Montt",restaurant,1.8,42.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJVaHoHFM6GJYR0wIDt75RJbs,Buffet Express,"Urmeneta 580, Puerto Montt, Puerto Montt",restaurant,1.1,16.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJja7PJlU7GJYRVhm0lhWm6yo,Restaurant Sabor Peruano,"Baquedano 867, Puerto Montt",restaurant,4.6,232.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ4zZZMFM6GJYRhFQRFQUj25g,Express de Lider,"Benavente 690, Puerto Montt, Puerto Montt",supermarket,4.2,2689.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+EjdBdi4gQ3VhcnRhIFRlcnJhemEgMTg2MCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIjESLwoUChIJMT7VY-M6GJYRqZnWr3_s1Y4QxA4qFAoSCd9uOp7kOhiWEYAbmd62OpDk,ChIJdzDd9JgnGJYRw7rDxpD3twg,Las.Delicias de Seba,"Manihual 285, Puerta del Sol, Puerto Montt",restaurant,,
+EjdBdi4gQ3VhcnRhIFRlcnJhemEgMTg2MCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIjESLwoUChIJMT7VY-M6GJYRqZnWr3_s1Y4QxA4qFAoSCd9uOp7kOhiWEYAbmd62OpDk,ChIJs_9U2_87GJYRk5ZmfWmvDIY,Minimarket Samy,"Villa, Antihual 1215, Puerto Montt",supermarket,,
+ChIJY-1OMZY7GJYRxlwiNrEavRY,ChIJSfOYOZY7GJYRwU5s9nhiOA4,Sea Salmon Limitada,"Nva Cinco 261, Puerto Montt, Puerto Montt",restaurant,4.0,1.0
+ChIJY-1OMZY7GJYRxlwiNrEavRY,ChIJ_0Culwo7GJYRP9FxyAWgDWg,Guaxos Burgers,"Crucero 2037, Puerto Montt",restaurant,3.0,47.0
+ChIJY-1OMZY7GJYRxlwiNrEavRY,ChIJg0sxbJc7GJYRaVVJjyQ8uKM,Soto Rivera Oscar Mauricio,"Avenida Los Notros 502, Puerto Montt, Puerto Montt",restaurant,3.5,4.0
+ChIJY-1OMZY7GJYRxlwiNrEavRY,ChIJS7gLXIo7GJYR7XeZ7O1n57I,Que Chevere Pizzeria,"Crucero 2035, Puerto Montt",restaurant,4.7,232.0
+ChIJ82jiuqcwGJYRMTVRhkwC0YM,ChIJ48DRdGIxGJYRRn2Y-h7xEy0,Costa Nostra Pelluco,"Calle San Javier 2013, Puerto Montt",restaurant,4.8,5.0
+ChIJCX0pPIU6GJYRRsXgcaz33MI,ChIJ64hxWoU6GJYRSXVgabXngxo,MiniMercado Lucas,"Pasaje Lago Tepuhueico 1999, Puerto Montt, Puerto Montt",supermarket,4.9,9.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJQ3Y6M647GJYRcaRC527p2xg,El Faro,"Ecuador 1219, Puerto Montt, Puerto Montt",restaurant,4.5,2.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJt6BYWQA7GJYRy7W872PGVkY,La bodeguita,"Augusto Trautmann, 1312puerto Montt",restaurant,5.0,1.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJ48BhLa47GJYRkYbRsCCsvQA,Restaurante comida la korito,"calle ecuador 1350 puerto montt 5840000, Puerto Montt",restaurant,4.6,81.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJcVFzYDs7GJYRPazx2O4sh74,Restaurante La picá del Capitán,"Calle Constitución 244, Puerto Montt",restaurant,4.4,221.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJH5LlhaU7GJYR9GZzlLgbwq4,Banquetería Carrasco,"Doctor Bernardo Phillippi, Puerto Montt, Puerto Montt",restaurant,4.3,4.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJU1WLKK47GJYRmNhp8w6qTbg,María Sonia Baez Mancilla,"Chorrillos 1285, Puerto Montt",restaurant,4.3,3.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJDYN4Yt87GJYRiYD9Hmv9Szk,Aromas de Mi Tierra,"Buenos Aires 1409, Puerto Montt, Puerto Montt",restaurant,5.0,2.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJWctUrwk7GJYRgcTF3xWlOCQ,La bodega 2,"Chorrillos 1380, Puerto Montt, Puerto Montt",restaurant,4.5,45.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJt2CsZaQ7GJYR5-n09iHxfg8,Restaurante Fusion LJ,"Chorrillos 1430, Puerto Montt, Puerto Montt",restaurant,3.0,2.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJLwJBwrE7GJYRkju4MyrkrFI,Restaurant Cirus Bar,"Miraflores 1177, Puerto Montt, Puerto Montt",restaurant,4.4,1202.0
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJU3mC1LE7GJYRwZYiv9sMMMk,Lubricantes Crescent,"Chorrillos 1323, Puerto Montt, Puerto Montt",supermarket,,
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJp5ZYs9I7GJYRg2rdtWHR5tA,Almacén La Shanita,"Wolleter 349, Puerto Montt, Puerto Montt",supermarket,,
+ChIJOca56a87GJYRBhR6e5Cuv-E,ChIJ13GlhaU7GJYRqBup4vwMN8Q,Supermercado Machado,"Crucero 1287, Puerto Montt",supermarket,4.3,75.0
+ChIJbcqgt-U6GJYRm3gNBLRp1P8,ChIJ2xm5ig87GJYR82Nalq1bYOI,RR Colaciones,"Calle Pailahuen 1967, Puerto Montt",restaurant,4.9,74.0
+ChIJbcqgt-U6GJYRm3gNBLRp1P8,ChIJL6RWUuY6GJYR1qPwnEg7nls,Restaurante Juksan,"Sargento Silva 1784, Puerto Montt, Puerto Montt",restaurant,4.4,72.0
+ChIJbcqgt-U6GJYRm3gNBLRp1P8,ChIJd89figg7GJYRXaXPLqP_80c,Bqto Market,"Calle Pailahuen 1962, Puerto Montt",supermarket,4.8,6.0
+ChIJbcqgt-U6GJYRm3gNBLRp1P8,ChIJhQrOWZM7GJYRHkr2eQq6I2o,Supermercado La Base,"Calle Pailahuen 1977, Puerto Montt",supermarket,4.8,19.0
+ChIJbcqgt-U6GJYRm3gNBLRp1P8,ChIJuSSICpM6GJYRE_1uC9UHk1s,Santa Isabel,"Avenida Austral 1400, Puerto Montt, Puerto Montt",supermarket,4.3,1149.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJ58iTv5I6GJYRrcsZM3tfMUE,Pan con Chancho,"Volcán Hornopirén 1728 local 2, Puerto Montt",restaurant,4.8,62.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJ79uLWAA7GJYRbJO3cXf_UaE,Casa Oriental Chinese Food,"Avenida Austral 1828, Puerto Montt",restaurant,5.0,9.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJMxzwlZI6GJYRPzQGduIQihc,Unimarc,"Volcán Hornopirén, Puerto Montt",supermarket,4.0,589.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJeVtAvpI6GJYRBdskha6_8b4,LOS VOLCANES,"LOS VOLCANES N° 585, Puerto Montt",supermarket,4.3,4.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJ8Ylb7047GJYRvrCkD-vNnhs,Terraza Bistro,"Maratón 1078, Puerto Montt",restaurant,3.6,5.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJZ3MdbgA7GJYRcxrBwUtOybA,La Sazón Familiar,"Río Chamiza, Manzana 29 Casa#6, Puerto Montt",restaurant,5.0,4.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJq4UWPmw6GJYRbFkIVXh2JQg,Skylab,"General Merino Benítez 263, Puerto Montt, Puerto Montt",supermarket,4.4,306.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJ5ZpAd1I7GJYRRkDFiHFmW5s,Minimercado Rio del Este,"Población Pichi Pelluco, Río del Este 22, Puerto Montt, Puerto Montt",supermarket,,
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJz3zPxSw7GJYRMCrJDRTaykg,Luis Antonio Lizana Díaz,"Maratón 1008, Puerto Montt, Puerto Montt",supermarket,,
+ChIJCX0pPIU6GJYRRsXgcaz33MI,ChIJ64hxWoU6GJYRSXVgabXngxo,MiniMercado Lucas,"Pasaje Lago Tepuhueico 1999, Puerto Montt, Puerto Montt",supermarket,4.9,9.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJ8Ylb7047GJYRvrCkD-vNnhs,Terraza Bistro,"Maratón 1078, Puerto Montt",restaurant,3.6,5.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJZ3MdbgA7GJYRcxrBwUtOybA,La Sazón Familiar,"Río Chamiza, Manzana 29 Casa#6, Puerto Montt",restaurant,5.0,4.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJq4UWPmw6GJYRbFkIVXh2JQg,Skylab,"General Merino Benítez 263, Puerto Montt, Puerto Montt",supermarket,4.4,306.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJ5ZpAd1I7GJYRRkDFiHFmW5s,Minimercado Rio del Este,"Población Pichi Pelluco, Río del Este 22, Puerto Montt, Puerto Montt",supermarket,,
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJz3zPxSw7GJYRMCrJDRTaykg,Luis Antonio Lizana Díaz,"Maratón 1008, Puerto Montt, Puerto Montt",supermarket,,
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJ8Ylb7047GJYRvrCkD-vNnhs,Terraza Bistro,"Maratón 1078, Puerto Montt",restaurant,3.6,5.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJZ3MdbgA7GJYRcxrBwUtOybA,La Sazón Familiar,"Río Chamiza, Manzana 29 Casa#6, Puerto Montt",restaurant,5.0,4.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJq4UWPmw6GJYRbFkIVXh2JQg,Skylab,"General Merino Benítez 263, Puerto Montt, Puerto Montt",supermarket,4.4,306.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJ5ZpAd1I7GJYRRkDFiHFmW5s,Minimercado Rio del Este,"Población Pichi Pelluco, Río del Este 22, Puerto Montt, Puerto Montt",supermarket,,
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJz3zPxSw7GJYRMCrJDRTaykg,Luis Antonio Lizana Díaz,"Maratón 1008, Puerto Montt, Puerto Montt",supermarket,,
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJqw_Ckfo6GJYRMkfnBxr1-1Q,Papa Johns Pizza,"Monseñor Ramon Munita 1625, Puerto Montt",restaurant,4.4,1711.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJn4ZvX_A6GJYRXspedjir8wA,PATAGONIA BURGER,"Monseñor Ramon Munita 1544, Puerto Montt, Puerto Montt",restaurant,4.4,397.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJg-E0bpU7GJYR4BFvqCWgNQo,Breko Express,"Monseñor Ramon Munita 1625, Puerto Montt",restaurant,2.3,4.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJQQtLblc7GJYR4coIVsvk_SI,Roof Burger,"Monseñor Ramon Munita 1600, Puerto Montt",restaurant,3.6,93.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJ-8VeT007GJYR7h63HvEAE2I,Stop Sandwich,"Monseñor Ramon Munita 1600, Puerto Montt",restaurant,4.8,5.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJ_d6GPPk7GJYRz8M_ipHbx4k,EL GRAN POLLO MUNITA,"Monseñor Ramon Munita 1600, local 14, Puerto Montt",restaurant,4.0,7.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJS6cmSwA7GJYRfLS7ko4s85Q,KFC,"Monseñor Ramon Munita 1600, Puerto Montt",restaurant,3.1,82.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJJ0jGYwA7GJYRHEahL6gpwpA,Los Pollos Amigos,"Monseñor Ramon Munita 1572, Puerto Montt",restaurant,5.0,2.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJeXX-GQA7GJYRkXQLht-aFJI,Los pollos primos,"Monseñor Ramon Munita 1572, Puerto Montt",restaurant,,
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJu1IFsYc7GJYRqwgU96jwjfI,El Quinto Coño,"La Tirana 1280, Puerto Montt",restaurant,3.9,12.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJdzDd9JgnGJYRw7rDxpD3twg,Las.Delicias de Seba,"Manihual 285, Puerta del Sol, Puerto Montt",restaurant,,
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJf-A6t_s6GJYR_oWj-OyRtd0,Yo Retiro,"Antihual 252, Puerto Montt, Puerto Montt",restaurant,,
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJMVFk-cQ7GJYRLmmz84Z_CCY,Placer De Sushi Puerto Montt,"Antihual 515, Puerto Montt, Puerto Montt",restaurant,4.4,44.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJAaiavfo6GJYR5p9LO9BslE0,Express de Lider,"Monseñor Ramon Munita 1625, Puerto Montt, Puerto Montt",supermarket,4.2,2538.0
+ChIJW45wKio7GJYRU3Cjs_boKnA,ChIJrW1kNYs7GJYRNBlqqhv-kNM,Botilleria millaray,"Antihual 635, Puerto Montt, Puerto Montt",supermarket,5.0,1.0
+EjdBdi4gQ3VhcnRhIFRlcnJhemEgMTg2MCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIjESLwoUChIJMT7VY-M6GJYRqZnWr3_s1Y4QxA4qFAoSCd9uOp7kOhiWEYAbmd62OpDk,ChIJdzDd9JgnGJYRw7rDxpD3twg,Las.Delicias de Seba,"Manihual 285, Puerta del Sol, Puerto Montt",restaurant,,
+EjdBdi4gQ3VhcnRhIFRlcnJhemEgMTg2MCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIjESLwoUChIJMT7VY-M6GJYRqZnWr3_s1Y4QxA4qFAoSCd9uOp7kOhiWEYAbmd62OpDk,ChIJs_9U2_87GJYRk5ZmfWmvDIY,Minimarket Samy,"Villa, Antihual 1215, Puerto Montt",supermarket,,
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJ58iTv5I6GJYRrcsZM3tfMUE,Pan con Chancho,"Volcán Hornopirén 1728 local 2, Puerto Montt",restaurant,4.8,62.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJ79uLWAA7GJYRbJO3cXf_UaE,Casa Oriental Chinese Food,"Avenida Austral 1828, Puerto Montt",restaurant,5.0,9.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJMxzwlZI6GJYRPzQGduIQihc,Unimarc,"Volcán Hornopirén, Puerto Montt",supermarket,4.0,589.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJeVtAvpI6GJYRBdskha6_8b4,LOS VOLCANES,"LOS VOLCANES N° 585, Puerto Montt",supermarket,4.3,4.0
+ChIJCX0pPIU6GJYRRsXgcaz33MI,ChIJ64hxWoU6GJYRSXVgabXngxo,MiniMercado Lucas,"Pasaje Lago Tepuhueico 1999, Puerto Montt, Puerto Montt",supermarket,4.9,9.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJOU7iWVQ6GJYR4uwnAUlMTuQ,Mei Sushi Centro,"Guillermo Gallardo 488, Puerto Montt",restaurant,4.3,399.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJwWTDpVM6GJYR8Lau3fDbhXk,Subway,"Guillermo Gallardo 211, Puerto Montt",restaurant,4.0,1983.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ5QogZVE6GJYRxbbkKEXOVlY,Telepizza,"Benavente 350 056, Puerto Montt, Puerto Montt",restaurant,3.9,517.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ-bf3z1M6GJYRicpU6fmEPj4,Administradora Restaurantes Bgl,"Rancagua 235, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ69lhwlM6GJYRChWsV-GaVkQ,Soc Gastronomica y Turistica Barde la Esquina,"Rancagua 245, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJEWYPMaQ7GJYRUi9iv9I1tCI,Cevifresh,"56800000, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJv7hLdFQ6GJYRZq5rkZim7As,La Carreta,"samueldjsanchezr@gmail.com, Pilar Sánchez, Puerto Montt",restaurant,4.6,226.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJb6ipZVQ6GJYRNVaaXph--0w,Restaurant Spirit,"Guillermo Gallardo, Puerto Montt, Puerto Montt",restaurant,3.8,4.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJTVqxK4I7GJYR6bDOKhG49wc,Akhenaton Comida Egipcia,"Vial, Puerto Montt, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJsV6RlmE7GJYRVAmLgtGyvMM,La R3cta,"Rancagua 293, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJHSNw7FM6GJYRIupBVDymlrw,El Bosque Cocina&Bar,"5480000, Puerto Montt",restaurant,4.7,884.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJbZJNfx47GJYRfQOh_4cTcjM,La Picá - Km 15 Piedra Azul,"Piedra Azul Km 15, Puerto Montt",restaurant,5.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJLT7iCbw7GJYR3grZuhZLkXc,Centro De Eventos En Puerto Montt 977707895,Puerto Montt,restaurant,5.0,6.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJVXUVxFM6GJYR_uWQefgprd4,Fogon del Lenador,"Rancagua 246, Puerto Montt",restaurant,4.5,796.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJN-7jBMc7GJYRa4qbfCs5kOU,Entre brasas y copas,"Rancagua 235, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJJ-LevlM6GJYRcSEjmbCwsBo,Cafe Plaza,"Guillermo Gallardo 228, Puerto Montt, Puerto Montt",restaurant,4.1,782.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRWgBjWo7GJYR3ZEpkMoucjw,AREPA POH,"Guillermo Gallardo 489, Puerto Montt, Puerto Montt",restaurant,4.4,253.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJE6fLj8I7GJYR82RW8krCsNw,Minimarket Almendra,"Urmeneta #451, Puerto Montt, Puerto Montt",supermarket,3.7,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJOU7iWVQ6GJYR4uwnAUlMTuQ,Mei Sushi Centro,"Guillermo Gallardo 488, Puerto Montt",restaurant,4.3,399.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJwWTDpVM6GJYR8Lau3fDbhXk,Subway,"Guillermo Gallardo 211, Puerto Montt",restaurant,4.0,1983.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ5QogZVE6GJYRxbbkKEXOVlY,Telepizza,"Benavente 350 056, Puerto Montt, Puerto Montt",restaurant,3.9,517.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ-bf3z1M6GJYRicpU6fmEPj4,Administradora Restaurantes Bgl,"Rancagua 235, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ69lhwlM6GJYRChWsV-GaVkQ,Soc Gastronomica y Turistica Barde la Esquina,"Rancagua 245, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJEWYPMaQ7GJYRUi9iv9I1tCI,Cevifresh,"56800000, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJv7hLdFQ6GJYRZq5rkZim7As,La Carreta,"samueldjsanchezr@gmail.com, Pilar Sánchez, Puerto Montt",restaurant,4.6,226.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJb6ipZVQ6GJYRNVaaXph--0w,Restaurant Spirit,"Guillermo Gallardo, Puerto Montt, Puerto Montt",restaurant,3.8,4.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJTVqxK4I7GJYR6bDOKhG49wc,Akhenaton Comida Egipcia,"Vial, Puerto Montt, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJsV6RlmE7GJYRVAmLgtGyvMM,La R3cta,"Rancagua 293, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJHSNw7FM6GJYRIupBVDymlrw,El Bosque Cocina&Bar,"5480000, Puerto Montt",restaurant,4.7,884.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJbZJNfx47GJYRfQOh_4cTcjM,La Picá - Km 15 Piedra Azul,"Piedra Azul Km 15, Puerto Montt",restaurant,5.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJLT7iCbw7GJYR3grZuhZLkXc,Centro De Eventos En Puerto Montt 977707895,Puerto Montt,restaurant,5.0,6.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJVXUVxFM6GJYR_uWQefgprd4,Fogon del Lenador,"Rancagua 246, Puerto Montt",restaurant,4.5,796.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJN-7jBMc7GJYRa4qbfCs5kOU,Entre brasas y copas,"Rancagua 235, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJJ-LevlM6GJYRcSEjmbCwsBo,Cafe Plaza,"Guillermo Gallardo 228, Puerto Montt, Puerto Montt",restaurant,4.1,782.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRWgBjWo7GJYR3ZEpkMoucjw,AREPA POH,"Guillermo Gallardo 489, Puerto Montt, Puerto Montt",restaurant,4.4,253.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJE6fLj8I7GJYR82RW8krCsNw,Minimarket Almendra,"Urmeneta #451, Puerto Montt, Puerto Montt",supermarket,3.7,3.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJzRJiXqw7GJYRsDyt8KdAVfw,El Fogón de Pepe,"Rengifo 845, Puerto Montt",restaurant,4.6,2021.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJyaR5wKw7GJYR-y29nOuAPPw,Da Alessandro Trattoria Puerto Montt,"Rengifo 815, Puerto Montt, Puerto Montt",restaurant,4.4,1539.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJM83bBwA7GJYRRha6PydXjrU,La cocina de Balmaceda,"José Manuel Balmaceda 241, Puerto Montt",restaurant,5.0,4.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJTQay75Y7GJYRQndvih_7vUg,LLacolen Pub Restaurante,"Aníbal Pinto 249, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJNSj5_Gs7GJYRtd5empU4iBY,Karamba Chinese food,"Rengifo 832, Puerto Montt",restaurant,4.8,13.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJebacjaw7GJYRGzMif4T9YXQ,Servicios De Restaurante Y Cafeteria Patricio Jose Olivares Hinojosa Empresa Ind,"Rengifo 840, Puerto Montt, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fQRCwA7GJYRopNUfvPIeqs,China Express,"Urmeneta, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ90VFiqw7GJYRpJeb6qxRkwg,Doña Julia,"Baquedano 285, Puerto Montt",restaurant,3.7,213.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJmTUNJK07GJYRbhci9yxdrZ4,bar restaurant Mirador a la bahía,"Aníbal Pinto 118, Puerto Montt",restaurant,4.5,465.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ1djYqLw7GJYRexz-Vksps5k,Tradiciones Peruanas Restaurant,"Rengifo 863, Puerto Montt",restaurant,4.3,639.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJOS94_VI6GJYRqxKLOt8BmG4,KFC,"Urmeneta 603, Puerto Montt",restaurant,3.0,7.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJG3S1W8M7GJYRdu6vmPyfp6c,Austral Burger Bar,"Rengifo 862, Puerto Montt",restaurant,4.3,36.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJL6YxA1M6GJYR5maIfKGLxjU,"Pedro, Juan y Diego","Urmeneta 580, Puerto Montt",restaurant,1.8,42.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJVaHoHFM6GJYR0wIDt75RJbs,Buffet Express,"Urmeneta 580, Puerto Montt, Puerto Montt",restaurant,1.1,16.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJja7PJlU7GJYRVhm0lhWm6yo,Restaurant Sabor Peruano,"Baquedano 867, Puerto Montt",restaurant,4.6,232.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ4zZZMFM6GJYRhFQRFQUj25g,Express de Lider,"Benavente 690, Puerto Montt, Puerto Montt",supermarket,4.2,2689.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJzRJiXqw7GJYRsDyt8KdAVfw,El Fogón de Pepe,"Rengifo 845, Puerto Montt",restaurant,4.6,2021.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJyaR5wKw7GJYR-y29nOuAPPw,Da Alessandro Trattoria Puerto Montt,"Rengifo 815, Puerto Montt, Puerto Montt",restaurant,4.4,1539.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJM83bBwA7GJYRRha6PydXjrU,La cocina de Balmaceda,"José Manuel Balmaceda 241, Puerto Montt",restaurant,5.0,4.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJTQay75Y7GJYRQndvih_7vUg,LLacolen Pub Restaurante,"Aníbal Pinto 249, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJNSj5_Gs7GJYRtd5empU4iBY,Karamba Chinese food,"Rengifo 832, Puerto Montt",restaurant,4.8,13.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJebacjaw7GJYRGzMif4T9YXQ,Servicios De Restaurante Y Cafeteria Patricio Jose Olivares Hinojosa Empresa Ind,"Rengifo 840, Puerto Montt, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fQRCwA7GJYRopNUfvPIeqs,China Express,"Urmeneta, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ90VFiqw7GJYRpJeb6qxRkwg,Doña Julia,"Baquedano 285, Puerto Montt",restaurant,3.7,213.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJmTUNJK07GJYRbhci9yxdrZ4,bar restaurant Mirador a la bahía,"Aníbal Pinto 118, Puerto Montt",restaurant,4.5,465.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ1djYqLw7GJYRexz-Vksps5k,Tradiciones Peruanas Restaurant,"Rengifo 863, Puerto Montt",restaurant,4.3,639.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJOS94_VI6GJYRqxKLOt8BmG4,KFC,"Urmeneta 603, Puerto Montt",restaurant,3.0,7.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJG3S1W8M7GJYRdu6vmPyfp6c,Austral Burger Bar,"Rengifo 862, Puerto Montt",restaurant,4.3,36.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJL6YxA1M6GJYR5maIfKGLxjU,"Pedro, Juan y Diego","Urmeneta 580, Puerto Montt",restaurant,1.8,42.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJVaHoHFM6GJYR0wIDt75RJbs,Buffet Express,"Urmeneta 580, Puerto Montt, Puerto Montt",restaurant,1.1,16.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJja7PJlU7GJYRVhm0lhWm6yo,Restaurant Sabor Peruano,"Baquedano 867, Puerto Montt",restaurant,4.6,232.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ4zZZMFM6GJYRhFQRFQUj25g,Express de Lider,"Benavente 690, Puerto Montt, Puerto Montt",supermarket,4.2,2689.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJOU7iWVQ6GJYR4uwnAUlMTuQ,Mei Sushi Centro,"Guillermo Gallardo 488, Puerto Montt",restaurant,4.3,399.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJwWTDpVM6GJYR8Lau3fDbhXk,Subway,"Guillermo Gallardo 211, Puerto Montt",restaurant,4.0,1983.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ5QogZVE6GJYRxbbkKEXOVlY,Telepizza,"Benavente 350 056, Puerto Montt, Puerto Montt",restaurant,3.9,517.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ-bf3z1M6GJYRicpU6fmEPj4,Administradora Restaurantes Bgl,"Rancagua 235, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ69lhwlM6GJYRChWsV-GaVkQ,Soc Gastronomica y Turistica Barde la Esquina,"Rancagua 245, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJEWYPMaQ7GJYRUi9iv9I1tCI,Cevifresh,"56800000, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJv7hLdFQ6GJYRZq5rkZim7As,La Carreta,"samueldjsanchezr@gmail.com, Pilar Sánchez, Puerto Montt",restaurant,4.6,226.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJb6ipZVQ6GJYRNVaaXph--0w,Restaurant Spirit,"Guillermo Gallardo, Puerto Montt, Puerto Montt",restaurant,3.8,4.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJTVqxK4I7GJYR6bDOKhG49wc,Akhenaton Comida Egipcia,"Vial, Puerto Montt, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJsV6RlmE7GJYRVAmLgtGyvMM,La R3cta,"Rancagua 293, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJHSNw7FM6GJYRIupBVDymlrw,El Bosque Cocina&Bar,"5480000, Puerto Montt",restaurant,4.7,884.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJbZJNfx47GJYRfQOh_4cTcjM,La Picá - Km 15 Piedra Azul,"Piedra Azul Km 15, Puerto Montt",restaurant,5.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJLT7iCbw7GJYR3grZuhZLkXc,Centro De Eventos En Puerto Montt 977707895,Puerto Montt,restaurant,5.0,6.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJVXUVxFM6GJYR_uWQefgprd4,Fogon del Lenador,"Rancagua 246, Puerto Montt",restaurant,4.5,796.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJN-7jBMc7GJYRa4qbfCs5kOU,Entre brasas y copas,"Rancagua 235, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJJ-LevlM6GJYRcSEjmbCwsBo,Cafe Plaza,"Guillermo Gallardo 228, Puerto Montt, Puerto Montt",restaurant,4.1,782.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRWgBjWo7GJYR3ZEpkMoucjw,AREPA POH,"Guillermo Gallardo 489, Puerto Montt, Puerto Montt",restaurant,4.4,253.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJE6fLj8I7GJYR82RW8krCsNw,Minimarket Almendra,"Urmeneta #451, Puerto Montt, Puerto Montt",supermarket,3.7,3.0
+EitBdi4gQXVzdHJhbCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIi4qLAoUChIJCcfRpew6GJYRGNRcgvd-eDcSFAoSCQf0IGlNOhiWEd_JpXla8aOG,ChIJbWiwP5E7GJYRmhTgcFpPEtQ,Bojac Exotic Fast Food,"Avenida Austral 1858, Puerto Montt",restaurant,3.6,28.0
+EitBdi4gQXVzdHJhbCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIi4qLAoUChIJCcfRpew6GJYRGNRcgvd-eDcSFAoSCQf0IGlNOhiWEd_JpXla8aOG,ChIJ-2_zBjY7GJYRrIboj1-6DNY,Heisenburger,"Avenida Austral 1779, Puerto Montt",restaurant,4.5,71.0
+EitBdi4gQXVzdHJhbCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIi4qLAoUChIJCcfRpew6GJYRGNRcgvd-eDcSFAoSCQf0IGlNOhiWEd_JpXla8aOG,ChIJ2WP-Teg6GJYRnX19uh-Rrs8,Andres Mauricio Soto Gonzalez,"Fuente de Sevilla 1977, Puerto Montt, Puerto Montt",restaurant,,
+EitBdi4gQXVzdHJhbCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIi4qLAoUChIJCcfRpew6GJYRGNRcgvd-eDcSFAoSCQf0IGlNOhiWEd_JpXla8aOG,ChIJt7QaXqA7GJYRGMEHPXsOVeU,La chamiza,"Avenida Austral, Puerto Montt, Puerto Montt",supermarket,,
+EitBdi4gQXVzdHJhbCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIi4qLAoUChIJCcfRpew6GJYRGNRcgvd-eDcSFAoSCQf0IGlNOhiWEd_JpXla8aOG,ChIJDUJ1IKM7GJYRn2X2CQZ57D0,Minimarket El Maestro Yoda,"Llantén 1910, Puerto Montt, Puerto Montt",supermarket,4.7,41.0
+EitBdi4gQXVzdHJhbCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIi4qLAoUChIJCcfRpew6GJYRGNRcgvd-eDcSFAoSCQf0IGlNOhiWEd_JpXla8aOG,ChIJywPAGNk7GJYRhxHk8g8bnBs,Boti-Keim,"Puerta de Valencia 2013, Puerto Montt",supermarket,,
+EitBdi4gQXVzdHJhbCwgUHVlcnRvIE1vbnR0LCBMb3MgTGFnb3MsIENoaWxlIi4qLAoUChIJCcfRpew6GJYRGNRcgvd-eDcSFAoSCQf0IGlNOhiWEd_JpXla8aOG,ChIJz5RHlug7GJYRimMkiXvfJZs,Minimarket La Vecina,"Pasaje Barcelona 1814, Puerto Montt",supermarket,5.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJOU7iWVQ6GJYR4uwnAUlMTuQ,Mei Sushi Centro,"Guillermo Gallardo 488, Puerto Montt",restaurant,4.3,399.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJwWTDpVM6GJYR8Lau3fDbhXk,Subway,"Guillermo Gallardo 211, Puerto Montt",restaurant,4.0,1983.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ5QogZVE6GJYRxbbkKEXOVlY,Telepizza,"Benavente 350 056, Puerto Montt, Puerto Montt",restaurant,3.9,517.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ-bf3z1M6GJYRicpU6fmEPj4,Administradora Restaurantes Bgl,"Rancagua 235, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ69lhwlM6GJYRChWsV-GaVkQ,Soc Gastronomica y Turistica Barde la Esquina,"Rancagua 245, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJEWYPMaQ7GJYRUi9iv9I1tCI,Cevifresh,"56800000, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJv7hLdFQ6GJYRZq5rkZim7As,La Carreta,"samueldjsanchezr@gmail.com, Pilar Sánchez, Puerto Montt",restaurant,4.6,226.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJb6ipZVQ6GJYRNVaaXph--0w,Restaurant Spirit,"Guillermo Gallardo, Puerto Montt, Puerto Montt",restaurant,3.8,4.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJTVqxK4I7GJYR6bDOKhG49wc,Akhenaton Comida Egipcia,"Vial, Puerto Montt, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJsV6RlmE7GJYRVAmLgtGyvMM,La R3cta,"Rancagua 293, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJHSNw7FM6GJYRIupBVDymlrw,El Bosque Cocina&Bar,"5480000, Puerto Montt",restaurant,4.7,884.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJbZJNfx47GJYRfQOh_4cTcjM,La Picá - Km 15 Piedra Azul,"Piedra Azul Km 15, Puerto Montt",restaurant,5.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJLT7iCbw7GJYR3grZuhZLkXc,Centro De Eventos En Puerto Montt 977707895,Puerto Montt,restaurant,5.0,6.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJVXUVxFM6GJYR_uWQefgprd4,Fogon del Lenador,"Rancagua 246, Puerto Montt",restaurant,4.5,796.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJN-7jBMc7GJYRa4qbfCs5kOU,Entre brasas y copas,"Rancagua 235, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJJ-LevlM6GJYRcSEjmbCwsBo,Cafe Plaza,"Guillermo Gallardo 228, Puerto Montt, Puerto Montt",restaurant,4.1,782.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRWgBjWo7GJYR3ZEpkMoucjw,AREPA POH,"Guillermo Gallardo 489, Puerto Montt, Puerto Montt",restaurant,4.4,253.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJE6fLj8I7GJYR82RW8krCsNw,Minimarket Almendra,"Urmeneta #451, Puerto Montt, Puerto Montt",supermarket,3.7,3.0
+ChIJ4VHK4Cw7GJYRHSuDUavP6fY,ChIJU17NlAg6GJYREvAg3MfngRI,Cotelé,"Juan Soler Manfredini, 1661 - Pelluco, Puerto Montt",restaurant,4.5,999.0
+ChIJ4VHK4Cw7GJYRHSuDUavP6fY,ChIJUYICLAA7GJYRLn0s0hEFsO0,Fullevent Restaurant,Puerto Montt,restaurant,,
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJ8Ylb7047GJYRvrCkD-vNnhs,Terraza Bistro,"Maratón 1078, Puerto Montt",restaurant,3.6,5.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJZ3MdbgA7GJYRcxrBwUtOybA,La Sazón Familiar,"Río Chamiza, Manzana 29 Casa#6, Puerto Montt",restaurant,5.0,4.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJq4UWPmw6GJYRbFkIVXh2JQg,Skylab,"General Merino Benítez 263, Puerto Montt, Puerto Montt",supermarket,4.4,306.0
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJ5ZpAd1I7GJYRRkDFiHFmW5s,Minimercado Rio del Este,"Población Pichi Pelluco, Río del Este 22, Puerto Montt, Puerto Montt",supermarket,,
+ChIJp-rJ0j87GJYRkWpcaXn8ITo,ChIJz3zPxSw7GJYRMCrJDRTaykg,Luis Antonio Lizana Díaz,"Maratón 1008, Puerto Montt, Puerto Montt",supermarket,,
+ChIJoeIIzVk6GJYRYgPd3VevWYY,ChIJ3SLzLFg6GJYRhZ_P_tMdsYU,Sushi JAM,"Padre Harter 150, Puerto Montt, Puerto Montt",restaurant,4.2,111.0
+ChIJoeIIzVk6GJYRYgPd3VevWYY,ChIJKRPwG7o7GJYRiDcvid6octo,Santa ines,"Buin 356, Puerto Montt, Puerto Montt",restaurant,,
+ChIJoeIIzVk6GJYRYgPd3VevWYY,ChIJBS2NPFg6GJYRWs-rcfwYgYE,Minimarket Ausblick View,"Santiago Ernst 177, Puerto Montt, Puerto Montt",supermarket,5.0,2.0
+ChIJkxb1aaYwGJYROD1-CIY-U3U,ChIJ48DRdGIxGJYRRn2Y-h7xEy0,Costa Nostra Pelluco,"Calle San Javier 2013, Puerto Montt",restaurant,4.8,5.0
+ChIJL9uvWKcwGJYRd_cH0uqGzY4,ChIJm9DzTVA6GJYR4nol6OMnD9w,Azzurro,"Liborio Guerrero 1769, Puerto Montt, Puerto Montt",restaurant,4.5,888.0
+ChIJp-tawT87GJYRdZigz-XwbJ0,ChIJL6RWUuY6GJYR1qPwnEg7nls,Restaurante Juksan,"Sargento Silva 1784, Puerto Montt, Puerto Montt",restaurant,4.4,72.0
+ChIJp-tawT87GJYRdZigz-XwbJ0,ChIJ2xm5ig87GJYR82Nalq1bYOI,RR Colaciones,"Calle Pailahuen 1967, Puerto Montt",restaurant,4.9,74.0
+ChIJp-tawT87GJYRdZigz-XwbJ0,ChIJuSSICpM6GJYRE_1uC9UHk1s,Santa Isabel,"Avenida Austral 1400, Puerto Montt, Puerto Montt",supermarket,4.3,1149.0
+ChIJp-tawT87GJYRdZigz-XwbJ0,ChIJd89figg7GJYRXaXPLqP_80c,Bqto Market,"Calle Pailahuen 1962, Puerto Montt",supermarket,4.8,6.0
+ChIJp-tawT87GJYRdZigz-XwbJ0,ChIJhQrOWZM7GJYRHkr2eQq6I2o,Supermercado La Base,"Calle Pailahuen 1977, Puerto Montt",supermarket,4.8,19.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJOU7iWVQ6GJYR4uwnAUlMTuQ,Mei Sushi Centro,"Guillermo Gallardo 488, Puerto Montt",restaurant,4.3,399.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJwWTDpVM6GJYR8Lau3fDbhXk,Subway,"Guillermo Gallardo 211, Puerto Montt",restaurant,4.0,1983.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ5QogZVE6GJYRxbbkKEXOVlY,Telepizza,"Benavente 350 056, Puerto Montt, Puerto Montt",restaurant,3.9,517.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ-bf3z1M6GJYRicpU6fmEPj4,Administradora Restaurantes Bgl,"Rancagua 235, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ69lhwlM6GJYRChWsV-GaVkQ,Soc Gastronomica y Turistica Barde la Esquina,"Rancagua 245, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJEWYPMaQ7GJYRUi9iv9I1tCI,Cevifresh,"56800000, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJv7hLdFQ6GJYRZq5rkZim7As,La Carreta,"samueldjsanchezr@gmail.com, Pilar Sánchez, Puerto Montt",restaurant,4.6,226.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJb6ipZVQ6GJYRNVaaXph--0w,Restaurant Spirit,"Guillermo Gallardo, Puerto Montt, Puerto Montt",restaurant,3.8,4.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJTVqxK4I7GJYR6bDOKhG49wc,Akhenaton Comida Egipcia,"Vial, Puerto Montt, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJsV6RlmE7GJYRVAmLgtGyvMM,La R3cta,"Rancagua 293, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJHSNw7FM6GJYRIupBVDymlrw,El Bosque Cocina&Bar,"5480000, Puerto Montt",restaurant,4.7,884.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJbZJNfx47GJYRfQOh_4cTcjM,La Picá - Km 15 Piedra Azul,"Piedra Azul Km 15, Puerto Montt",restaurant,5.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJLT7iCbw7GJYR3grZuhZLkXc,Centro De Eventos En Puerto Montt 977707895,Puerto Montt,restaurant,5.0,6.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJVXUVxFM6GJYR_uWQefgprd4,Fogon del Lenador,"Rancagua 246, Puerto Montt",restaurant,4.5,796.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJN-7jBMc7GJYRa4qbfCs5kOU,Entre brasas y copas,"Rancagua 235, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJJ-LevlM6GJYRcSEjmbCwsBo,Cafe Plaza,"Guillermo Gallardo 228, Puerto Montt, Puerto Montt",restaurant,4.1,782.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRWgBjWo7GJYR3ZEpkMoucjw,AREPA POH,"Guillermo Gallardo 489, Puerto Montt, Puerto Montt",restaurant,4.4,253.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJE6fLj8I7GJYR82RW8krCsNw,Minimarket Almendra,"Urmeneta #451, Puerto Montt, Puerto Montt",supermarket,3.7,3.0
+ChIJNbeMYQA7GJYRYOLEnriefmY,ChIJ2xm5ig87GJYR82Nalq1bYOI,RR Colaciones,"Calle Pailahuen 1967, Puerto Montt",restaurant,4.9,74.0
+ChIJNbeMYQA7GJYRYOLEnriefmY,ChIJhQrOWZM7GJYRHkr2eQq6I2o,Supermercado La Base,"Calle Pailahuen 1977, Puerto Montt",supermarket,4.8,19.0
+ChIJNbeMYQA7GJYRYOLEnriefmY,ChIJd89figg7GJYRXaXPLqP_80c,Bqto Market,"Calle Pailahuen 1962, Puerto Montt",supermarket,4.8,6.0
+ChIJM1CsXok6GJYRzWgDXrbdnDo,ChIJZX8iq-s7GJYRNCxowbml46w,Quincho Los Doninicos,"Volcán Corcovado, Puerto Montt, Puerto Montt",restaurant,4.4,7.0
+ChIJM1CsXok6GJYRzWgDXrbdnDo,ChIJyT22wsU7GJYRLi4xro-1kdU,Milcalis,"Pasaje nuevo 4, Puerto Montt",restaurant,5.0,2.0
+ChIJM1CsXok6GJYRzWgDXrbdnDo,ChIJvzBHn547GJYR0lFKEsRV22o,Mini Market Los Domínicos,"Volcán Corcovado 5600, Puerto Montt, Puerto Montt",supermarket,5.0,30.0
+ChIJMet66g46GJYREzYTk_M9-Xg,ChIJU17NlAg6GJYREvAg3MfngRI,Cotelé,"Juan Soler Manfredini, 1661 - Pelluco, Puerto Montt",restaurant,4.5,999.0
+ChIJMet66g46GJYREzYTk_M9-Xg,ChIJUYICLAA7GJYRLn0s0hEFsO0,Fullevent Restaurant,Puerto Montt,restaurant,,
+ChIJ9T-U06cwGJYR6Kse0PIrVkg,ChIJ48DRdGIxGJYRRn2Y-h7xEy0,Costa Nostra Pelluco,"Calle San Javier 2013, Puerto Montt",restaurant,4.8,5.0
+ChIJ9T-U06cwGJYR6Kse0PIrVkg,ChIJg5dN2w47GJYR7AiKwAMK9nw,Sándwiches La Consentida,Puerto Montt,restaurant,5.0,2.0
+ChIJ9T-U06cwGJYR6Kse0PIrVkg,ChIJyYXhtrU7GJYRS8d5t3GmGRk,katsu sushi y comida rápida,"juan soler manfredini con esquina buenos aires, pelluco, Puerto Montt",restaurant,1.8,4.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJzRJiXqw7GJYRsDyt8KdAVfw,El Fogón de Pepe,"Rengifo 845, Puerto Montt",restaurant,4.6,2021.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJyaR5wKw7GJYR-y29nOuAPPw,Da Alessandro Trattoria Puerto Montt,"Rengifo 815, Puerto Montt, Puerto Montt",restaurant,4.4,1539.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJM83bBwA7GJYRRha6PydXjrU,La cocina de Balmaceda,"José Manuel Balmaceda 241, Puerto Montt",restaurant,5.0,4.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJTQay75Y7GJYRQndvih_7vUg,LLacolen Pub Restaurante,"Aníbal Pinto 249, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJNSj5_Gs7GJYRtd5empU4iBY,Karamba Chinese food,"Rengifo 832, Puerto Montt",restaurant,4.8,13.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJebacjaw7GJYRGzMif4T9YXQ,Servicios De Restaurante Y Cafeteria Patricio Jose Olivares Hinojosa Empresa Ind,"Rengifo 840, Puerto Montt, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fQRCwA7GJYRopNUfvPIeqs,China Express,"Urmeneta, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ90VFiqw7GJYRpJeb6qxRkwg,Doña Julia,"Baquedano 285, Puerto Montt",restaurant,3.7,213.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJmTUNJK07GJYRbhci9yxdrZ4,bar restaurant Mirador a la bahía,"Aníbal Pinto 118, Puerto Montt",restaurant,4.5,465.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ1djYqLw7GJYRexz-Vksps5k,Tradiciones Peruanas Restaurant,"Rengifo 863, Puerto Montt",restaurant,4.3,639.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJOS94_VI6GJYRqxKLOt8BmG4,KFC,"Urmeneta 603, Puerto Montt",restaurant,3.0,7.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJG3S1W8M7GJYRdu6vmPyfp6c,Austral Burger Bar,"Rengifo 862, Puerto Montt",restaurant,4.3,36.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJL6YxA1M6GJYR5maIfKGLxjU,"Pedro, Juan y Diego","Urmeneta 580, Puerto Montt",restaurant,1.8,42.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJVaHoHFM6GJYR0wIDt75RJbs,Buffet Express,"Urmeneta 580, Puerto Montt, Puerto Montt",restaurant,1.1,16.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJja7PJlU7GJYRVhm0lhWm6yo,Restaurant Sabor Peruano,"Baquedano 867, Puerto Montt",restaurant,4.6,232.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ4zZZMFM6GJYRhFQRFQUj25g,Express de Lider,"Benavente 690, Puerto Montt, Puerto Montt",supermarket,4.2,2689.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJp1s5rVc6GJYR7702Lfzi3Us,ChIJ3SLzLFg6GJYRhZ_P_tMdsYU,Sushi JAM,"Padre Harter 150, Puerto Montt, Puerto Montt",restaurant,4.2,111.0
+ChIJMet66g46GJYREzYTk_M9-Xg,ChIJU17NlAg6GJYREvAg3MfngRI,Cotelé,"Juan Soler Manfredini, 1661 - Pelluco, Puerto Montt",restaurant,4.5,999.0
+ChIJMet66g46GJYREzYTk_M9-Xg,ChIJUYICLAA7GJYRLn0s0hEFsO0,Fullevent Restaurant,Puerto Montt,restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJOU7iWVQ6GJYR4uwnAUlMTuQ,Mei Sushi Centro,"Guillermo Gallardo 488, Puerto Montt",restaurant,4.3,399.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJwWTDpVM6GJYR8Lau3fDbhXk,Subway,"Guillermo Gallardo 211, Puerto Montt",restaurant,4.0,1983.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ5QogZVE6GJYRxbbkKEXOVlY,Telepizza,"Benavente 350 056, Puerto Montt, Puerto Montt",restaurant,3.9,517.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ-bf3z1M6GJYRicpU6fmEPj4,Administradora Restaurantes Bgl,"Rancagua 235, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ69lhwlM6GJYRChWsV-GaVkQ,Soc Gastronomica y Turistica Barde la Esquina,"Rancagua 245, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJEWYPMaQ7GJYRUi9iv9I1tCI,Cevifresh,"56800000, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJv7hLdFQ6GJYRZq5rkZim7As,La Carreta,"samueldjsanchezr@gmail.com, Pilar Sánchez, Puerto Montt",restaurant,4.6,226.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJb6ipZVQ6GJYRNVaaXph--0w,Restaurant Spirit,"Guillermo Gallardo, Puerto Montt, Puerto Montt",restaurant,3.8,4.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJTVqxK4I7GJYR6bDOKhG49wc,Akhenaton Comida Egipcia,"Vial, Puerto Montt, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJsV6RlmE7GJYRVAmLgtGyvMM,La R3cta,"Rancagua 293, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJHSNw7FM6GJYRIupBVDymlrw,El Bosque Cocina&Bar,"5480000, Puerto Montt",restaurant,4.7,884.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJbZJNfx47GJYRfQOh_4cTcjM,La Picá - Km 15 Piedra Azul,"Piedra Azul Km 15, Puerto Montt",restaurant,5.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJLT7iCbw7GJYR3grZuhZLkXc,Centro De Eventos En Puerto Montt 977707895,Puerto Montt,restaurant,5.0,6.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJVXUVxFM6GJYR_uWQefgprd4,Fogon del Lenador,"Rancagua 246, Puerto Montt",restaurant,4.5,796.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJN-7jBMc7GJYRa4qbfCs5kOU,Entre brasas y copas,"Rancagua 235, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJJ-LevlM6GJYRcSEjmbCwsBo,Cafe Plaza,"Guillermo Gallardo 228, Puerto Montt, Puerto Montt",restaurant,4.1,782.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRWgBjWo7GJYR3ZEpkMoucjw,AREPA POH,"Guillermo Gallardo 489, Puerto Montt, Puerto Montt",restaurant,4.4,253.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJE6fLj8I7GJYR82RW8krCsNw,Minimarket Almendra,"Urmeneta #451, Puerto Montt, Puerto Montt",supermarket,3.7,3.0
+ChIJbwocVIk6GJYR5Ift75zQ0js,ChIJZX8iq-s7GJYRNCxowbml46w,Quincho Los Doninicos,"Volcán Corcovado, Puerto Montt, Puerto Montt",restaurant,4.4,7.0
+ChIJbwocVIk6GJYR5Ift75zQ0js,ChIJyT22wsU7GJYRLi4xro-1kdU,Milcalis,"Pasaje nuevo 4, Puerto Montt",restaurant,5.0,2.0
+ChIJbwocVIk6GJYR5Ift75zQ0js,ChIJcXfcBP87GJYRkTEEbZgeLu0,Dulce Colibrí,"Pasaje Volcán Tupungato, Valle Volcanes 133, Puerto Montt, Puerto Montt",restaurant,,
+ChIJbwocVIk6GJYR5Ift75zQ0js,ChIJvzBHn547GJYR0lFKEsRV22o,Mini Market Los Domínicos,"Volcán Corcovado 5600, Puerto Montt, Puerto Montt",supermarket,5.0,30.0
+ChIJdUEqjQg6GJYRdCuoLq7Zra0,ChIJOxxalGk6GJYRUm9tD6d6Dr8,La Hornería,"Juan Soler Manfredini 1691, Puerto Montt, Puerto Montt",restaurant,4.6,443.0
+ChIJdUEqjQg6GJYRdCuoLq7Zra0,ChIJm9DzTVA6GJYR4nol6OMnD9w,Azzurro,"Liborio Guerrero 1769, Puerto Montt, Puerto Montt",restaurant,4.5,888.0
+ChIJdUEqjQg6GJYRdCuoLq7Zra0,ChIJQyLdC7o7GJYR0vqVDt-pmDQ,Toco madera,"sin número, Liborio Guerrero, Puerto Montt",restaurant,4.0,748.0
+ChIJdUEqjQg6GJYRdCuoLq7Zra0,ChIJUYICLAA7GJYRLn0s0hEFsO0,Fullevent Restaurant,Puerto Montt,restaurant,,
+ChIJdUEqjQg6GJYRdCuoLq7Zra0,ChIJU17NlAg6GJYREvAg3MfngRI,Cotelé,"Juan Soler Manfredini, 1661 - Pelluco, Puerto Montt",restaurant,4.5,999.0
+ChIJdUEqjQg6GJYRdCuoLq7Zra0,ChIJg5dN2w47GJYR7AiKwAMK9nw,Sándwiches La Consentida,Puerto Montt,restaurant,5.0,2.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJOU7iWVQ6GJYR4uwnAUlMTuQ,Mei Sushi Centro,"Guillermo Gallardo 488, Puerto Montt",restaurant,4.3,399.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJwWTDpVM6GJYR8Lau3fDbhXk,Subway,"Guillermo Gallardo 211, Puerto Montt",restaurant,4.0,1983.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ5QogZVE6GJYRxbbkKEXOVlY,Telepizza,"Benavente 350 056, Puerto Montt, Puerto Montt",restaurant,3.9,517.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ-bf3z1M6GJYRicpU6fmEPj4,Administradora Restaurantes Bgl,"Rancagua 235, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ69lhwlM6GJYRChWsV-GaVkQ,Soc Gastronomica y Turistica Barde la Esquina,"Rancagua 245, Puerto Montt, Puerto Montt",restaurant,3.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJEWYPMaQ7GJYRUi9iv9I1tCI,Cevifresh,"56800000, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJv7hLdFQ6GJYRZq5rkZim7As,La Carreta,"samueldjsanchezr@gmail.com, Pilar Sánchez, Puerto Montt",restaurant,4.6,226.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJb6ipZVQ6GJYRNVaaXph--0w,Restaurant Spirit,"Guillermo Gallardo, Puerto Montt, Puerto Montt",restaurant,3.8,4.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJTVqxK4I7GJYR6bDOKhG49wc,Akhenaton Comida Egipcia,"Vial, Puerto Montt, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJsV6RlmE7GJYRVAmLgtGyvMM,La R3cta,"Rancagua 293, Puerto Montt",restaurant,5.0,3.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJHSNw7FM6GJYRIupBVDymlrw,El Bosque Cocina&Bar,"5480000, Puerto Montt",restaurant,4.7,884.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJbZJNfx47GJYRfQOh_4cTcjM,La Picá - Km 15 Piedra Azul,"Piedra Azul Km 15, Puerto Montt",restaurant,5.0,1.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJLT7iCbw7GJYR3grZuhZLkXc,Centro De Eventos En Puerto Montt 977707895,Puerto Montt,restaurant,5.0,6.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJVXUVxFM6GJYR_uWQefgprd4,Fogon del Lenador,"Rancagua 246, Puerto Montt",restaurant,4.5,796.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJN-7jBMc7GJYRa4qbfCs5kOU,Entre brasas y copas,"Rancagua 235, Puerto Montt",restaurant,,
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJJ-LevlM6GJYRcSEjmbCwsBo,Cafe Plaza,"Guillermo Gallardo 228, Puerto Montt, Puerto Montt",restaurant,4.1,782.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJRWgBjWo7GJYR3ZEpkMoucjw,AREPA POH,"Guillermo Gallardo 489, Puerto Montt, Puerto Montt",restaurant,4.4,253.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJB_QgaU06GJYR38mleVrxo4Y,ChIJE6fLj8I7GJYR82RW8krCsNw,Minimarket Almendra,"Urmeneta #451, Puerto Montt, Puerto Montt",supermarket,3.7,3.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJ58iTv5I6GJYRrcsZM3tfMUE,Pan con Chancho,"Volcán Hornopirén 1728 local 2, Puerto Montt",restaurant,4.8,62.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJ79uLWAA7GJYRbJO3cXf_UaE,Casa Oriental Chinese Food,"Avenida Austral 1828, Puerto Montt",restaurant,5.0,9.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJMxzwlZI6GJYRPzQGduIQihc,Unimarc,"Volcán Hornopirén, Puerto Montt",supermarket,4.0,589.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJeVtAvpI6GJYRBdskha6_8b4,LOS VOLCANES,"LOS VOLCANES N° 585, Puerto Montt",supermarket,4.3,4.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJ58iTv5I6GJYRrcsZM3tfMUE,Pan con Chancho,"Volcán Hornopirén 1728 local 2, Puerto Montt",restaurant,4.8,62.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJ79uLWAA7GJYRbJO3cXf_UaE,Casa Oriental Chinese Food,"Avenida Austral 1828, Puerto Montt",restaurant,5.0,9.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJMxzwlZI6GJYRPzQGduIQihc,Unimarc,"Volcán Hornopirén, Puerto Montt",supermarket,4.0,589.0
+ChIJW4XJjeo7GJYRb7ZJ0e-kjRY,ChIJeVtAvpI6GJYRBdskha6_8b4,LOS VOLCANES,"LOS VOLCANES N° 585, Puerto Montt",supermarket,4.3,4.0
+ChIJff2nfuM6GJYR9dM6QWg9lmE,ChIJdzDd9JgnGJYRw7rDxpD3twg,Las.Delicias de Seba,"Manihual 285, Puerta del Sol, Puerto Montt",restaurant,,
+ChIJff2nfuM6GJYR9dM6QWg9lmE,ChIJs_9U2_87GJYRk5ZmfWmvDIY,Minimarket Samy,"Villa, Antihual 1215, Puerto Montt",supermarket,,
+ChIJg2PpwS87GJYRM_db7NLXpUo,ChIJUw_7ScU7GJYRl17VI4LYBPY,Wampus Sushi Outlet,"Avenida Ferrocarril, Puerto Montt",restaurant,5.0,1.0
+ChIJg2PpwS87GJYRM_db7NLXpUo,ChIJ6yqIi2k7GJYR_TcAzps0uY4,ASTORIA Mall Paseo Outlet Alerce,"Avenida Ferrocarril 2001, LOCAL 145, Puerto Montt",restaurant,4.2,520.0
+ChIJg2PpwS87GJYRM_db7NLXpUo,ChIJCW58YAA7GJYRpm2-IXK2meY,Mariscos estilo Sinaloa,"Avenida Ferrocarril 2001, Puerto Montt",restaurant,5.0,1.0
+ChIJg2PpwS87GJYRM_db7NLXpUo,ChIJA6wwVbU7GJYR8SCoZuXaShI,Burger King Paseo Alerce Puerto Montt,"Avenida Ferrocarril 2001, Puerto Montt",restaurant,3.6,303.0
+ChIJg2PpwS87GJYRM_db7NLXpUo,ChIJwQ0GJAA7GJYRU4Jn_-dN8DA,KFC,"Avenida Ferrocarril 2001, Puerto Montt",restaurant,2.5,22.0
+ChIJASlTRoY6GJYRRJa0ymHWJCI,ChIJkQkp-Rw7GJYRdOdzODTbnLg,DONDE HOMERO VALLE VOLCANES,"CERRO TRONADOR, VALLE VOLCANES 4597, Puerto Montt",restaurant,3.6,35.0
+ChIJASlTRoY6GJYRRJa0ymHWJCI,ChIJaTlToIc6GJYREBi013niwlk,Pizzería & Emporio Valle Sabor,"Avenida Marcelo Fourcade 4935, Puerto Montt",restaurant,4.0,76.0
+ChIJASlTRoY6GJYRRJa0ymHWJCI,ChIJLW9n8As7GJYRC5snexXGWoQ,Big Smash,"Valle Volcanes, Avenida Marcelo Fourcade 4937, Puerto Montt",restaurant,4.7,46.0
+ChIJASlTRoY6GJYRRJa0ymHWJCI,ChIJZVMPwug7GJYRBSr4JMMvLAI,El Placer de Comer,"Cerro Tronador 4606, Puerto Montt",restaurant,3.7,3.0
+ChIJASlTRoY6GJYRRJa0ymHWJCI,ChIJOSg3Srs7GJYR9C3uQR2o0Zg,China Express,"Cerro Tronador 4613, Puerto Montt, Puerto Montt",restaurant,4.0,159.0
+ChIJASlTRoY6GJYRRJa0ymHWJCI,ChIJ462Zaoc6GJYRQidcqGb7Ef8,Breko Fusion Sushi.bar,"Cerro Tronador 4981, Puerto Montt, Puerto Montt",restaurant,4.0,192.0
+ChIJASlTRoY6GJYRRJa0ymHWJCI,ChIJQ3bkUY86GJYRL7C-tg5mU40,Bonhomía Sureña,"Valle Volcanes, Volcán Láscar 101, Puerto Montt, Puerto Montt",restaurant,4.5,21.0
+ChIJASlTRoY6GJYRRJa0ymHWJCI,ChIJVbfHloc6GJYRYZO6Nj0KfKY,Santa Isabel,"Cerro Tronador 4981, Puerto Montt",supermarket,4.1,2719.0
+ChIJASlTRoY6GJYRRJa0ymHWJCI,ChIJ8_jmC9g7GJYRbROoOG46Ev4,Party Market,"Avenida Marcelo Fourcade 4951, Puerto Montt",supermarket,4.5,64.0
+ChIJASlTRoY6GJYRRJa0ymHWJCI,ChIJp5vxf306GJYRPBubCIk-WJg,Fami-market,"Avenida Marcelo Fourcade 5050, Puerto Montt, Puerto Montt",supermarket,4.7,81.0
+ChIJCX0pPIU6GJYRRsXgcaz33MI,ChIJ64hxWoU6GJYRSXVgabXngxo,MiniMercado Lucas,"Pasaje Lago Tepuhueico 1999, Puerto Montt, Puerto Montt",supermarket,4.9,9.0
+ChIJR0PoM74xGJYRsQyAVztSZN0,ChIJraupQhY7GJYRWUIU5OqVRiE,Organic Food Spa,"Condominio Valle Volcanes 38, Puerto Montt",supermarket,5.0,2.0
+ChIJ5ceoOfU6GJYR340PTG_L-0A,ChIJHRvDVgA7GJYRYeVlMAfkvHU,Donatello Pizzas,"Volcán Puntiagudo, Puerto Montt",restaurant,5.0,3.0
+ChIJ5ceoOfU6GJYR340PTG_L-0A,ChIJF8QOVPU6GJYR3iaLnTgA_m0,Pollos Tarragona,"Volcán Puntiagudo 100, Local 122, Puerto Montt",restaurant,3.3,143.0
+ChIJ5ceoOfU6GJYR340PTG_L-0A,ChIJT0rc3Rs7GJYRTSwDn8V0t7w,Tacontento,"Vinca 1010, Puerto Montt",restaurant,4.0,13.0
+ChIJ5ceoOfU6GJYR340PTG_L-0A,ChIJQzw4ZgA7GJYRbuCEfSFRVZk,Cafa Foods,"Antonio Varas Norte, calle Vinca n °1022, Puerto Montt",restaurant,,
+ChIJ5ceoOfU6GJYR340PTG_L-0A,ChIJe-akXEs7GJYRlTGUeB8q-SM,"Pollos ""El Turco"" - Especialistas en Pollo","Chaulinec, Avenida Presidente Ibáñez 22 con, Puerto Montt",restaurant,5.0,14.0
+ChIJ5ceoOfU6GJYR340PTG_L-0A,ChIJSQDULec7GJYROVGM2akfq1k,Quincho Colectivos,"Volcán Puntiagudo, Puerto Montt, Puerto Montt",restaurant,4.5,40.0
+ChIJ5ceoOfU6GJYR340PTG_L-0A,ChIJhQaeMPU6GJYRP4wf7-gM5jU,Supermercado Unimarc,"Volcán Puntiagudo 100, Puerto Montt",supermarket,3.9,1564.0
+EixNYXJ0YSBDb2x2aW4sIFB1ZXJ0byBNb250dCwgTG9zIExhZ29zLCBDaGlsZSIuKiwKFAoSCdHUyJrjOhiWEf_LYfp88_XWEhQKEgkH9CBpTToYlhHfyaV5WvGjhg,ChIJdzDd9JgnGJYRw7rDxpD3twg,Las.Delicias de Seba,"Manihual 285, Puerta del Sol, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJzRJiXqw7GJYRsDyt8KdAVfw,El Fogón de Pepe,"Rengifo 845, Puerto Montt",restaurant,4.6,2021.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJyaR5wKw7GJYR-y29nOuAPPw,Da Alessandro Trattoria Puerto Montt,"Rengifo 815, Puerto Montt, Puerto Montt",restaurant,4.4,1539.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJM83bBwA7GJYRRha6PydXjrU,La cocina de Balmaceda,"José Manuel Balmaceda 241, Puerto Montt",restaurant,5.0,4.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJTQay75Y7GJYRQndvih_7vUg,LLacolen Pub Restaurante,"Aníbal Pinto 249, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJNSj5_Gs7GJYRtd5empU4iBY,Karamba Chinese food,"Rengifo 832, Puerto Montt",restaurant,4.8,13.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJebacjaw7GJYRGzMif4T9YXQ,Servicios De Restaurante Y Cafeteria Patricio Jose Olivares Hinojosa Empresa Ind,"Rengifo 840, Puerto Montt, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fQRCwA7GJYRopNUfvPIeqs,China Express,"Urmeneta, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ90VFiqw7GJYRpJeb6qxRkwg,Doña Julia,"Baquedano 285, Puerto Montt",restaurant,3.7,213.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJmTUNJK07GJYRbhci9yxdrZ4,bar restaurant Mirador a la bahía,"Aníbal Pinto 118, Puerto Montt",restaurant,4.5,465.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ1djYqLw7GJYRexz-Vksps5k,Tradiciones Peruanas Restaurant,"Rengifo 863, Puerto Montt",restaurant,4.3,639.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJOS94_VI6GJYRqxKLOt8BmG4,KFC,"Urmeneta 603, Puerto Montt",restaurant,3.0,7.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJG3S1W8M7GJYRdu6vmPyfp6c,Austral Burger Bar,"Rengifo 862, Puerto Montt",restaurant,4.3,36.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJL6YxA1M6GJYR5maIfKGLxjU,"Pedro, Juan y Diego","Urmeneta 580, Puerto Montt",restaurant,1.8,42.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJVaHoHFM6GJYR0wIDt75RJbs,Buffet Express,"Urmeneta 580, Puerto Montt, Puerto Montt",restaurant,1.1,16.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJja7PJlU7GJYRVhm0lhWm6yo,Restaurant Sabor Peruano,"Baquedano 867, Puerto Montt",restaurant,4.6,232.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ4zZZMFM6GJYRhFQRFQUj25g,Express de Lider,"Benavente 690, Puerto Montt, Puerto Montt",supermarket,4.2,2689.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJCX0pPIU6GJYRRsXgcaz33MI,ChIJ64hxWoU6GJYRSXVgabXngxo,MiniMercado Lucas,"Pasaje Lago Tepuhueico 1999, Puerto Montt, Puerto Montt",supermarket,4.9,9.0
+ChIJ4VHK4Cw7GJYRHSuDUavP6fY,ChIJU17NlAg6GJYREvAg3MfngRI,Cotelé,"Juan Soler Manfredini, 1661 - Pelluco, Puerto Montt",restaurant,4.5,999.0
+ChIJ4VHK4Cw7GJYRHSuDUavP6fY,ChIJUYICLAA7GJYRLn0s0hEFsO0,Fullevent Restaurant,Puerto Montt,restaurant,,
+ChIJ--8aDGwxGJYRFDg5svtfmnw,ChIJ48DRdGIxGJYRRn2Y-h7xEy0,Costa Nostra Pelluco,"Calle San Javier 2013, Puerto Montt",restaurant,4.8,5.0
+ChIJ--8aDGwxGJYRFDg5svtfmnw,ChIJ48DRdGIxGJYRRn2Y-h7xEy0,Costa Nostra Pelluco,"Calle San Javier 2013, Puerto Montt",restaurant,4.8,5.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJzRJiXqw7GJYRsDyt8KdAVfw,El Fogón de Pepe,"Rengifo 845, Puerto Montt",restaurant,4.6,2021.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJyaR5wKw7GJYR-y29nOuAPPw,Da Alessandro Trattoria Puerto Montt,"Rengifo 815, Puerto Montt, Puerto Montt",restaurant,4.4,1539.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJM83bBwA7GJYRRha6PydXjrU,La cocina de Balmaceda,"José Manuel Balmaceda 241, Puerto Montt",restaurant,5.0,4.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJTQay75Y7GJYRQndvih_7vUg,LLacolen Pub Restaurante,"Aníbal Pinto 249, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJNSj5_Gs7GJYRtd5empU4iBY,Karamba Chinese food,"Rengifo 832, Puerto Montt",restaurant,4.8,13.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJebacjaw7GJYRGzMif4T9YXQ,Servicios De Restaurante Y Cafeteria Patricio Jose Olivares Hinojosa Empresa Ind,"Rengifo 840, Puerto Montt, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fQRCwA7GJYRopNUfvPIeqs,China Express,"Urmeneta, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ90VFiqw7GJYRpJeb6qxRkwg,Doña Julia,"Baquedano 285, Puerto Montt",restaurant,3.7,213.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJmTUNJK07GJYRbhci9yxdrZ4,bar restaurant Mirador a la bahía,"Aníbal Pinto 118, Puerto Montt",restaurant,4.5,465.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ1djYqLw7GJYRexz-Vksps5k,Tradiciones Peruanas Restaurant,"Rengifo 863, Puerto Montt",restaurant,4.3,639.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJOS94_VI6GJYRqxKLOt8BmG4,KFC,"Urmeneta 603, Puerto Montt",restaurant,3.0,7.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJG3S1W8M7GJYRdu6vmPyfp6c,Austral Burger Bar,"Rengifo 862, Puerto Montt",restaurant,4.3,36.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJL6YxA1M6GJYR5maIfKGLxjU,"Pedro, Juan y Diego","Urmeneta 580, Puerto Montt",restaurant,1.8,42.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJVaHoHFM6GJYR0wIDt75RJbs,Buffet Express,"Urmeneta 580, Puerto Montt, Puerto Montt",restaurant,1.1,16.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJja7PJlU7GJYRVhm0lhWm6yo,Restaurant Sabor Peruano,"Baquedano 867, Puerto Montt",restaurant,4.6,232.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ4zZZMFM6GJYRhFQRFQUj25g,Express de Lider,"Benavente 690, Puerto Montt, Puerto Montt",supermarket,4.2,2689.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
+ChIJQQudh6YwGJYRtraf4Q6-QIc,ChIJ48DRdGIxGJYRRn2Y-h7xEy0,Costa Nostra Pelluco,"Calle San Javier 2013, Puerto Montt",restaurant,4.8,5.0
+ChIJQQudh6YwGJYRtraf4Q6-QIc,ChIJT-5VOaAxGJYR9dpvfeTPjdY,Los Helechos Pelluco,"5480000, Regimiento 1980, Puerto Montt",supermarket,3.4,7.0
+ChIJQQudh6YwGJYRtraf4Q6-QIc,ChIJ48DRdGIxGJYRRn2Y-h7xEy0,Costa Nostra Pelluco,"Calle San Javier 2013, Puerto Montt",restaurant,4.8,5.0
+ChIJQQudh6YwGJYRtraf4Q6-QIc,ChIJT-5VOaAxGJYR9dpvfeTPjdY,Los Helechos Pelluco,"5480000, Regimiento 1980, Puerto Montt",supermarket,3.4,7.0
+ChIJlUHLwlk6GJYR5xd7MotjmzQ,ChIJ3SLzLFg6GJYRhZ_P_tMdsYU,Sushi JAM,"Padre Harter 150, Puerto Montt, Puerto Montt",restaurant,4.2,111.0
+ChIJlUHLwlk6GJYR5xd7MotjmzQ,ChIJBZmBfeg7GJYRp1aDwtrGupc,Rincón Jumbo,"Ejército 470, Puerto Montt, Puerto Montt",restaurant,3.5,20.0
+ChIJlUHLwlk6GJYR5xd7MotjmzQ,ChIJKRPwG7o7GJYRiDcvid6octo,Santa ines,"Buin 356, Puerto Montt, Puerto Montt",restaurant,,
+ChIJlUHLwlk6GJYR5xd7MotjmzQ,ChIJGTBvk3M7GJYRj-tBa6Bgv8c,New Cow Vegan Food,"Seminario 91, Puerto Montt",restaurant,5.0,30.0
+ChIJlUHLwlk6GJYR5xd7MotjmzQ,ChIJITT7VAA7GJYRn8YYwtqCYso,La Cocina De Pamepepi 2,"Lawrence 308, Puerto Montt",restaurant,4.7,16.0
+ChIJlUHLwlk6GJYR5xd7MotjmzQ,ChIJr8T0w4g7GJYREEsL8Fa7rsE,Rock Chicken,"Lawrence 314, Puerto Montt",restaurant,5.0,1.0
+ChIJlUHLwlk6GJYR5xd7MotjmzQ,ChIJ1UIP5-k7GJYRVKGwrbUWsgI,Mozzafiato pizzas,"Lawrence 314, Puerto Montt",restaurant,,
+ChIJlUHLwlk6GJYR5xd7MotjmzQ,ChIJHeRrJFo6GJYRxRCNBzymYrw,Jumbo,"Ejército 470, Puerto Montt, Puerto Montt",supermarket,4.3,9560.0
+ChIJlUHLwlk6GJYR5xd7MotjmzQ,ChIJBS2NPFg6GJYRWs-rcfwYgYE,Minimarket Ausblick View,"Santiago Ernst 177, Puerto Montt, Puerto Montt",supermarket,5.0,2.0
+ChIJc_ZpWYk6GJYRbvz6TY6H2f0,ChIJZX8iq-s7GJYRNCxowbml46w,Quincho Los Doninicos,"Volcán Corcovado, Puerto Montt, Puerto Montt",restaurant,4.4,7.0
+ChIJc_ZpWYk6GJYRbvz6TY6H2f0,ChIJyT22wsU7GJYRLi4xro-1kdU,Milcalis,"Pasaje nuevo 4, Puerto Montt",restaurant,5.0,2.0
+ChIJc_ZpWYk6GJYRbvz6TY6H2f0,ChIJvzBHn547GJYR0lFKEsRV22o,Mini Market Los Domínicos,"Volcán Corcovado 5600, Puerto Montt, Puerto Montt",supermarket,5.0,30.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJRSRGAVM6GJYRqY99wPFwgTM,Juan Maestro,"Urmeneta 580 Local 303-304, Puerto Montt",restaurant,3.3,15.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJzRJiXqw7GJYRsDyt8KdAVfw,El Fogón de Pepe,"Rengifo 845, Puerto Montt",restaurant,4.6,2021.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJyaR5wKw7GJYR-y29nOuAPPw,Da Alessandro Trattoria Puerto Montt,"Rengifo 815, Puerto Montt, Puerto Montt",restaurant,4.4,1539.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJM83bBwA7GJYRRha6PydXjrU,La cocina de Balmaceda,"José Manuel Balmaceda 241, Puerto Montt",restaurant,5.0,4.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJTQay75Y7GJYRQndvih_7vUg,LLacolen Pub Restaurante,"Aníbal Pinto 249, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJNSj5_Gs7GJYRtd5empU4iBY,Karamba Chinese food,"Rengifo 832, Puerto Montt",restaurant,4.8,13.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJebacjaw7GJYRGzMif4T9YXQ,Servicios De Restaurante Y Cafeteria Patricio Jose Olivares Hinojosa Empresa Ind,"Rengifo 840, Puerto Montt, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fQRCwA7GJYRopNUfvPIeqs,China Express,"Urmeneta, Puerto Montt",restaurant,,
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ90VFiqw7GJYRpJeb6qxRkwg,Doña Julia,"Baquedano 285, Puerto Montt",restaurant,3.7,213.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJmTUNJK07GJYRbhci9yxdrZ4,bar restaurant Mirador a la bahía,"Aníbal Pinto 118, Puerto Montt",restaurant,4.5,465.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ1djYqLw7GJYRexz-Vksps5k,Tradiciones Peruanas Restaurant,"Rengifo 863, Puerto Montt",restaurant,4.3,639.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJOS94_VI6GJYRqxKLOt8BmG4,KFC,"Urmeneta 603, Puerto Montt",restaurant,3.0,7.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJG3S1W8M7GJYRdu6vmPyfp6c,Austral Burger Bar,"Rengifo 862, Puerto Montt",restaurant,4.3,36.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJL6YxA1M6GJYR5maIfKGLxjU,"Pedro, Juan y Diego","Urmeneta 580, Puerto Montt",restaurant,1.8,42.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJVaHoHFM6GJYR0wIDt75RJbs,Buffet Express,"Urmeneta 580, Puerto Montt, Puerto Montt",restaurant,1.1,16.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJja7PJlU7GJYRVhm0lhWm6yo,Restaurant Sabor Peruano,"Baquedano 867, Puerto Montt",restaurant,4.6,232.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ4zZZMFM6GJYRhFQRFQUj25g,Express de Lider,"Benavente 690, Puerto Montt, Puerto Montt",supermarket,4.2,2689.0
+ChIJfwMlsqw7GJYRiAtToBq55zc,ChIJ0fucAVM6GJYRoNfIMQsNEE0,Unimarc supermarket Mall Paseo del Mar,"Urmeneta 574, Puerto Montt, Puerto Montt",supermarket,3.8,1220.0
